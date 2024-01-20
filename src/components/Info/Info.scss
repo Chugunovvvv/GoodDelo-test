@@ -1,0 +1,45 @@
+.info {
+    border-radius: 20px;
+    border: 1px solid #000;
+    background: linear-gradient(126deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 255, 87, 0.60) 100%);
+    padding: 70px 100px;
+    width: 1088px;
+}
+.info-bad {
+padding: 70px 100px;
+width: 1088px;
+border-radius: 20px;
+border: 1px solid #000;
+background: linear-gradient(126deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 138, 122, 0.60) 100%);
+}
+
+
+.info__temp {
+    margin-bottom: 68px;
+}
+.info__temp-title {
+font-size: 200px;
+line-height: 100%; 
+letter-spacing: -12px;
+margin-bottom: 19px;
+}
+.info__temp-subtitle {
+font-size: 40px;
+font-weight: 700;
+line-height: 100%; 
+letter-spacing: -2.4px;
+}
+
+.info__davl-title {
+font-size: 200px;
+line-height: 100%; 
+letter-spacing: -12px;
+margin-bottom: 19px;
+
+}
+.info__davl-subtitle {
+font-size: 40px;
+font-weight: 700;
+line-height: 100%; 
+letter-spacing: -2.4px;
+}

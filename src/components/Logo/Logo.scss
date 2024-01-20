@@ -1,0 +1,16 @@
+.logo {
+    width: 336px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    position: relative;
+    overflow: hidden;
+    &::after {
+        content: '';
+        position: absolute;
+        width: 270px;
+        height: 270px;
+        bottom: -5px;
+        right: 0;
+        background: url('../../img/Logo.png');
+    }
+}
